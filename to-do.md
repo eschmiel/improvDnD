@@ -1,5 +1,6 @@
-- Come up with names and descriptions for missing characters and locations. Helpful to name proprietors.
-- Get bandit and bandit captain stack block ready
+-[x] Come up with names and descriptions for missing characters and locations. Helpful to name proprietors.
+-[x] Get bandit and bandit captain stack block ready
 - Print out pre-rolled character sheets
 - Print out Character, Locations and Factions aides
 - Create map of Shinefin
+- List of naval ship positions

@@ -14,11 +14,11 @@
 
 **King Lome** - The King of Landerell
 
-Gold Dragons Leutenant
+**Mortimer Saladz** - Gold Dragons Leutenant
 
-Gold Dragons Captain - in charge here
+**Babs Shanks** - Gold Dragons Captain - in charge here
 
-Gold Dragons Commander - not Here
+**Lord-Commander Skragg Strogos** - Commander of the Gold Dragons not Here
 
 # Locations
 
@@ -26,23 +26,37 @@ Gold Dragons Commander - not Here
 
 **Landerell** - The kingdom **Shinefin** is a part of.
 
-**Magic Shop**
+**Shelly's Imporium of Wonders** - Magic Shop
+- Scroll of Speak with Animals (2gp)
+- Cloak of billowing (5gp)
+- Minor health potion (1gp)
 
-General Store
+**Stuff and Things** - General Store
+- Run by Poppy Londerel
 
-Blacksmith
+**Blacksmith**
+- Lars Grumley
 
-Tavern at the Inn for travellers
+**Warm Rum Inn** - Tavern at the Inn for travellers
 
-Tavern on the docks for sailors and dock workers
+**The Lion's Pride** - Tavern on the docks for sailors and dock workers
 
-Adventurer's Guild
+- Captain Bole is seeking a crew to sail to the fabled island of Blay said to be populated by cyclopses and home to a talisman that could allow the wielder to control the power of the sea itself.
 
-Town Hall
+**Adventurer's Guild**
+- Free lodging
+- Abandoned
+- Last entry from 3 years ago. Aldric Stonehaven and his party was about to embark in search of the sunken city of Ozedon in search of the *Orb of Kazarack**
 
-Police Station
+The **orb of kazarack** is a legendary artifact of power said to be the tear of a goddess. Some say the orb was what sunk Ozedon. Others say the Ozedon was sunk to prevent anyone from using the orb.
 
-The Mayor's Mansion
+- Old notice from 5 years ago: Someone please investigate the crying outside my cabin every night.
+
+**Town Hall**
+
+**Police Station**
+
+**The Mayor's Mansion**
 
 # Factions
 
@@ -102,7 +116,7 @@ Some possible encounters:
 
 ### If the party confronted some of the Gold Dragons
 
-A Gold Dragon officer shows up with an arrest warrant for the party. If the acquiece, they will be put through a sham trial and executed.
+A Gold Dragon officer shows up with an arrest warrant for the party. If they acquiece, they will be put through a sham trial and executed.
 
 ### Maurice asks the party to do something about The Gold Dragons
 
